@@ -7,7 +7,8 @@
 [![Groq](https://img.shields.io/badge/LLM-Groq_Llama_3.3-green.svg)](https://groq.com)
 
 ---
-
+## Live Demo : https://formautofilleraiagent-ckscrqc9mpay6tunvyckjn.streamlit.app/
+---
 ## 📋 Table of Contents
 
 - [Overview](#overview)
@@ -18,8 +19,7 @@
 - [Module Documentation](#module-documentation)
 
 ---
-## Live Demo : https://formautofilleraiagent-ckscrqc9mpay6tunvyckjn.streamlit.app/
----
+
 ## Overview
 
 This application demonstrates practical AI/ML engineering by implementing a structured, template-based extraction pipeline:
